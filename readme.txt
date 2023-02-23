@@ -1,0 +1,1 @@
+Use Exe file if vbs or bat not work
